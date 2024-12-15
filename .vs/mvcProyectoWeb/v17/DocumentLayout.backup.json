@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RicardoGB\\DisenoWeb\\mvcProyectoWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F382E1-A5B3-40E7-BD74-DDF94B4462C0}|mvcProyectoWeb\\mvcProyectoWeb.csproj|d:\\ricardogb\\disenoweb\\mvcproyectoweb\\mvcproyectoweb\\areas\\admin\\views\\almacenes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0F382E1-A5B3-40E7-BD74-DDF94B4462C0}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\areas\\admin\\views\\almacenes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F382E1-A5B3-40E7-BD74-DDF94B4462C0}|mvcProyectoWeb\\mvcProyectoWeb.csproj|d:\\ricardogb\\disenoweb\\mvcproyectoweb\\mvcproyectoweb\\areas\\admin\\controllers\\almacenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F382E1-A5B3-40E7-BD74-DDF94B4462C0}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\areas\\admin\\controllers\\almacenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F382E1-A5B3-40E7-BD74-DDF94B4462C0}|mvcProyectoWeb\\mvcProyectoWeb.csproj|d:\\ricardogb\\disenoweb\\mvcproyectoweb\\mvcproyectoweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F382E1-A5B3-40E7-BD74-DDF94B4462C0}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C7CA5B-5E11-4598-BD20-206B2BC8B223}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|d:\\ricardogb\\disenoweb\\mvcproyectoweb\\mvcproyectoweb.accesodatos\\data\\repository\\irepository\\icontenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C7CA5B-5E11-4598-BD20-206B2BC8B223}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|solutionrelative:mvcproyectoweb.accesodatos\\data\\repository\\irepository\\icontenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C7CA5B-5E11-4598-BD20-206B2BC8B223}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|d:\\ricardogb\\disenoweb\\mvcproyectoweb\\mvcproyectoweb.accesodatos\\data\\repository\\contenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C7CA5B-5E11-4598-BD20-206B2BC8B223}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|solutionrelative:mvcproyectoweb.accesodatos\\data\\repository\\contenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\RicardoGB\\DisenoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Admin\\Views\\Almacenes\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Admin\\Views\\Almacenes\\Index.cshtml",
+              "ToolTip": "D:\\RicardoGB\\DisenoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Admin\\Views\\Almacenes\\Index.cshtml",
+              "RelativeToolTip": "mvcProyectoWeb\\Areas\\Admin\\Views\\Almacenes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T01:30:57.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\RicardoGB\\DisenoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Program.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Program.cs",
+              "ToolTip": "D:\\RicardoGB\\DisenoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Program.cs",
+              "RelativeToolTip": "mvcProyectoWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:03:48.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlmacenesController.cs",
+              "DocumentMoniker": "D:\\RicardoGB\\DisenoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Admin\\Controllers\\AlmacenesController.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Admin\\Controllers\\AlmacenesController.cs",
+              "ToolTip": "D:\\RicardoGB\\DisenoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Admin\\Controllers\\AlmacenesController.cs",
+              "RelativeToolTip": "mvcProyectoWeb\\Areas\\Admin\\Controllers\\AlmacenesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:23:51.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContenedorTrabajo.cs",
+              "DocumentMoniker": "D:\\RicardoGB\\DisenoWeb\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "ToolTip": "D:\\RicardoGB\\DisenoWeb\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "RelativeToolTip": "mvcProyectoWeb.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:05:29.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IContenedorTrabajo.cs",
+              "DocumentMoniker": "D:\\RicardoGB\\DisenoWeb\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.AccesoDatos\\Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
+              "ToolTip": "D:\\RicardoGB\\DisenoWeb\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
+              "RelativeToolTip": "mvcProyectoWeb.AccesoDatos\\Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:05:02.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
